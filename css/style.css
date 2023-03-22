@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Kolker+Brush&display=swap');
+body{
+    font-size: 22px;
+    
+}
+main{
+    color: blueviolet;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Kolker Brush', cursive;
+}
+.highlight{
+    background-color: gold;
+}
+/* body #specify .li-class{
+    color: red;
+} */
+/*ul{
+    list-style-type: sa;
+    text-align: center;
+    list-style-position: inside;
+    color: green;
+    font-size: 36px;
+    font-weight: 700;
+    list-style-image: url(/images/checklist.png);
+}
+
+a{
+    font-size: 44px;
+    color: rgba(0, 0, 0, 0.3);
+
+}
+ul li:not(:last-child) {
+    color: brown;
+}
+
+a:focus{
+    color: green;
+}
+a:hover{
+    color: aquamarine;
+    text-decoration: none;
+}
+a:active{
+    color: red;
+} */
+
+
+
+
