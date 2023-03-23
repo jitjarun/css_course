@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Kolker+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Kolker+Brush&display=swap');
 body{
     font-size: 22px;
     
@@ -11,10 +11,11 @@ main{
 .highlight{
     background-color: gold;
 }
-/* body #specify .li-class{
+body #specify .li-class{
     color: red;
-} */
-/*ul{
+    
+}
+ul{
     list-style-type: sa;
     text-align: center;
     list-style-position: inside;
@@ -27,10 +28,15 @@ main{
 a{
     font-size: 44px;
     color: rgba(0, 0, 0, 0.3);
+    display:inline;
+    text-decoration: none;
+    text-align: center;
+
 
 }
 ul li:not(:last-child) {
     color: brown;
+    
 }
 
 a:focus{
@@ -42,7 +48,7 @@ a:hover{
 }
 a:active{
     color: red;
-} */
+}
 
 
 
